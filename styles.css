@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Lustria&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+/* Resets */
+h1, p {
+    margin: 0;
+}
+
+
+.hero h1 {
+    color: palevioletred;
+    font-size: 48px;
+    text-align: center;
+    font-family: 'Lustria', serif;
+    margin: 120px 0 0 0;
+}
+
+.hero p {
+    width: 520px;
+    text-align: center;
+    margin: 0 auto;
+    line-height: 140%;
+
+}
